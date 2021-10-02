@@ -1,7 +1,6 @@
 # morsecode
 Simple python program to encode and decode morse code.
-
-<br><br>
+<br>
 Date: October 2021 <br>
 Source Code: https://github.com/jolenechong/morsecode/blob/main/morsecode.py <br>
 
