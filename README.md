@@ -1,5 +1,7 @@
 # Simple Python Projects
+- prerequisites: have a basic understanding in python
 - perfect starting point for intermediate python
+- try doing the projects yourself with the description and example output below, then come back to the code if you need help :)
 <br>
 1. Encode and Decode Morse Code [2nd October]
 <img src='pythonMorseCode.png'/>
