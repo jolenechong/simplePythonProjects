@@ -2,7 +2,7 @@
 - perfect starting point for intermediate python
 <br>
 1. Encode and Decode Morse Code [2nd October]
-<img src='pythonMorseCode.png'/><br>
+<img src='pythonMorseCode.png'/>
 
 - takes numbers and letters to encode into morse code (punctuations are ignored for now)
 - each word separated with spaces worth 7 .
@@ -10,7 +10,7 @@
 - key concepts used: list(append), dictionary(.get), .join, .map, for loops, while loops, if elif else
 <br>
 2. Hangman [3rd October]
-<img src='pythonHangman.png'/><br>
+<img src='pythonHangman.png'/>
 
 - takes input of a word from user
 - another user to guess word, going letter by letter
