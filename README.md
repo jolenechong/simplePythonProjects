@@ -2,7 +2,7 @@
 - perfect starting point for intermediate python
 <br>
 1. Encode and Decode Morse Code [2nd October]
-<img src='pythonMoreseCode.png'/><br>
+<img src='pythonMorseCode.png'/><br>
 - takes numbers and letters to encode into morse code (punctuations are ignored for now)
 - each word separated with spaces worth 7 .
 - each letter separated with spaces worth 3 .
