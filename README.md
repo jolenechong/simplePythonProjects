@@ -11,7 +11,7 @@
 - each letter separated with spaces worth 3 .
 - key concepts used: list(append), dictionary(.get), .join, .map, for loops, while loops, if elif else
 <br>
-2. Hangman [3rd October]
+2. Hangman [2nd October]
 <img src='pythonHangman.png'/>
 
 - takes input of a word from user
@@ -19,6 +19,14 @@
 - every wrong word adds one to the hangman drawing and also decreases the turns left
 - program shows the current stage of guessed word
 - key concepts: .lower(), list(append), while loops, for loops, if elif else,.join,.map
+<br>
+3. Price Comparison Tool [3rd October]
+<img src='pythonPriceComparison.png'/>
+
+- track price of a product across different sources
+- gets data from json file
+- iterates from json data by storing in list of dictionaries using .load
+- display only the cheapest product
 
 <br>
 Date: October 2021 <br>
