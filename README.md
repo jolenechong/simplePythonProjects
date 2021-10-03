@@ -28,6 +28,8 @@ Source Code: https://github.com/jolenechong/morsecode/blob/main/morsecode.py <br
 ```
 run python morsecode.py
 run python hangman.py
+
+OR you can just open .py files which will run automatically in command prompt
 ```
 
 ## Tech Stack
