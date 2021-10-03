@@ -8,7 +8,7 @@
 - each word separated with spaces worth 7 .
 - each letter separated with spaces worth 3 .
 - key concepts used: list(append), dictionary(.get), .join, .map, for loops, while loops, if elif else
-
+<br>
 2. Hangman [3rd October]
 <img src='pythonHangman.png'/><br>
 
