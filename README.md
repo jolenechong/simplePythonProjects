@@ -20,6 +20,7 @@
 - program shows the current stage of guessed word
 - key concepts: .lower(), list(append), while loops, for loops, if elif else,.join,.map
 <br>
+
 3. Price Comparison Tool [3rd October]
 <img src='pythonPriceComparison.png'/>
 
@@ -27,10 +28,18 @@
 - gets data from json file
 - iterates from json data by storing in list of dictionaries using .load
 - display only the cheapest product
+<br>
+
+3. Sudoku Solver [24th October]
+<img src='pythonSudokuSolver.png'/>
+
+- finds empty cells
+- prints sudoku board
+- valid function checks validity by row and column and then by box using for loops and if else statements
+- final solve function to bring it all together
+- run through all possible numbers (0-9) for each empty position, once valid would add to board and return True
 
 <br>
-Date: October 2021 <br>
-Source Code: https://github.com/jolenechong/morsecode/blob/main/morsecode.py <br>
 
 ## Usage
 ```
